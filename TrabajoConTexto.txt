@@ -1,0 +1,6 @@
+git init
+git remote add origin https....
+git remote -v (para ver si se han vinculado repositorio local y remoto)
+git config -l 
+git config --global user.name "lsakjdalskdjl"
+git config --global user.mail "klasja.gmail.com"
