@@ -7,4 +7,7 @@ git config --global user.mail "klasja.gmail.com"
 (hasta aqui fue el primer commit)
 git add .
 git push origin master
-aqui realizaremos elñ segundo commit
+aqui realizaremos el segundo commit
+Ahora comenzaremos a escribir lo que sera el tercer commit
+/////////////////////???????????????????
+{{}}
